@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=800&lines=Bienvenido+viajero.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=3498DB&center=verdadero&vCenter=verdadero&width=800&lines=Bienvenido+viajero.)](https://git.io/typing-svg)
 <h2 align="left">Hola👋! <br>Soy Cory López</h2>
 
 
@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+el+mundo+del+un+desarrollador.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=1ABC9C&center=verdadero&vCenter=verdadero&width=500&lines=En+el+mundo+del+un+desarrollador.)](https://git.io/typing-svg)
 
 
 ###
